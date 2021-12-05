@@ -1,0 +1,5 @@
+{
+  "version": "1.0",
+  "change_logs": " - Fixed Taser script.\n - Removed usless lines. \n - Fixed the blackscreen issue when doing /fw or /framework. \n - Added the option to only create in the sql if your a civ. \n - Optimized lines  "
+  
+}
